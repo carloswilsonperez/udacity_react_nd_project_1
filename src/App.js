@@ -3,8 +3,8 @@ import { Route, Switch, withRouter } from 'react-router-dom';
 
 import * as BooksAPI from './BooksAPI';
 import './App.css';
-import BookShelf from './Bookshelf';
-import Search from './Search';
+import BookShelf from './Components/Bookshelf';
+import Search from './Components/Search';
 
 class BooksApp extends React.Component {
   state = {

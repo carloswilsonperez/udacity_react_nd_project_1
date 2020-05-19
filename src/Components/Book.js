@@ -1,6 +1,6 @@
 import React from 'react';
 import Select from './Select';
-import thumbnailNoAvailable from './icons/noimage.png';
+import thumbnailNoAvailable from '../icons/noimage.png';
 
 const Book = (props) => {
     const {shelf, title, authors, backgroundImage} = props;
