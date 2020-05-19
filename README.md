@@ -23,7 +23,7 @@ To start the project:
         ├── Books.js # React component to render a Book
         ├── Bookshelf.js # React component to render a BookShelf
         ├── Search.js # React component to render the earch component
-│       └── Select.js # React component to render a Select control
+        └── Select.js # React component to render a Select control
     ├── App.css # Styles for your app. Feel free to customize this as you desire.
     ├── App.js # This is the root of your app. Contains static HTML right now.
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
